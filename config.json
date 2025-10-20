@@ -1,0 +1,5 @@
+﻿{
+  "CsvFilePath": "sample-cab-data.csv",
+  "DuplicatesFilePath": "duplicates.csv",
+  "ConnectionString": "Server=localhost;Database=CabData;User Id=sa;Password=P@ssw0rd!;TrustServerCertificate=True;"
+}
