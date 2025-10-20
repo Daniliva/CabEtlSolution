@@ -101,3 +101,5 @@ CabEtlSolution/
 - CsvHelper (33.0.1)
 - System.Data.SqlClient (4.8.6)
 - Microsoft.Extensions.Configuration (8.0.0)
+
+- Row - 29889
